@@ -962,7 +962,7 @@
         "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications",
         "RegItemValueName": "NoToastApplicationNotification",
         "RegItemValueType": "DWord",
-        "RegItemValue": "1",
+        "RegItemValue": "0",
         "VDIState": "Enabled"
     },
     {
