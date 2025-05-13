@@ -959,20 +959,6 @@
         "VDIState": "Enabled"
     },
     {
-        "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications",
-        "RegItemValueName": "NoToastApplicationNotification",
-        "RegItemValueType": "DWord",
-        "RegItemValue": "0",
-        "VDIState": "Enabled"
-    },
-    {
-        "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications",
-        "RegItemValueName": "NoToastApplicationNotificationOnLockScreen",
-        "RegItemValueType": "DWord",
-        "RegItemValue": "1",
-        "VDIState": "Enabled"
-    },
-    {
         "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Windows\\EdgeUI",
         "RegItemValueName": "DisableMFUTracking",
         "RegItemValueType": "DWord",
