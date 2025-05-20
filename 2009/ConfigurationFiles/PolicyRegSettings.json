@@ -99,13 +99,6 @@
     },
     {
         "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\System",
-        "RegItemValueName": "DisableLockScreenAppNotifications",
-        "RegItemValueType": "DWord",
-        "RegItemValue": "1",
-        "VDIState": "Enabled"
-    },
-    {
-        "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\System",
         "RegItemValueName": "DontEnumerateConnectedUsers",
         "RegItemValueType": "DWord",
         "RegItemValue": "1",
@@ -179,13 +172,6 @@
         "RegItemValueName": "LetAppsAccessCellularData_UserInControlOfTheseApps",
         "RegItemValueType": "MultiString",
         "RegItemValue": "",
-        "VDIState": "Enabled"
-    },
-    {
-        "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications",
-        "RegItemValueName": "NoCloudApplicationNotification",
-        "RegItemValueType": "DWord",
-        "RegItemValue": "1",
         "VDIState": "Enabled"
     },
     {
@@ -511,13 +497,6 @@
         "VDIState": "Enabled"
     },
     {
-        "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\DataCollection",
-        "RegItemValueName": "DoNotShowFeedbackNotifications",
-        "RegItemValueType": "DWord",
-        "RegItemValue": "1",
-        "VDIState": "Enabled"
-    },
-    {
         "RegItemPath": "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\DataCollection",
         "RegItemValueName": "MicrosoftEdgeDataOptIn",
         "RegItemValueType": "DWord",
@@ -599,13 +578,6 @@
         "RegItemValueName": "Enabled",
         "RegItemValueType": "DWord",
         "RegItemValue": "0",
-        "VDIState": "Enabled"
-    },
-    {
-        "RegItemPath": "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Ext",
-        "RegItemValueName": "DisableAddonLoadTimePerformanceNotifications",
-        "RegItemValueType": "DWord",
-        "RegItemValue": "1",
         "VDIState": "Enabled"
     },
     {
@@ -905,13 +877,6 @@
     {
         "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Windows\\Explorer",
         "RegItemValueName": "NoWindowMinimizingShortcuts",
-        "RegItemValueType": "DWord",
-        "RegItemValue": "1",
-        "VDIState": "Enabled"
-    },
-    {
-        "RegItemPath": "HKCU:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer",
-        "RegItemValueName": "TaskbarNoNotification",
         "RegItemValueType": "DWord",
         "RegItemValue": "1",
         "VDIState": "Enabled"
