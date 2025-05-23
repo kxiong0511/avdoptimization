@@ -49,13 +49,6 @@
         "SetProperty": "True"
     },
     {
-        "HivePath": "HKLM:\\VDOT_TEMP\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer",
-        "KeyName": "TaskbarNoNotification",
-        "PropertyType": "DWord",
-        "PropertyValue": "1",
-        "SetProperty": "True"
-    },
-    {
         "HivePath": "HKLM:\\VDOT_TEMP\\SOFTWARE\\Policies\\Microsoft\\Windows\\CloudContent",
         "KeyName": "DisableWindowsSpotlightFeatures",
         "PropertyType": "DWord",
@@ -93,20 +86,6 @@
     {
         "HivePath": "HKLM:\\VDOT_TEMP\\SOFTWARE\\Policies\\Microsoft\\Windows\\Explorer",
         "KeyName": "DisableThumbsDBOnNetworkFolders",
-        "PropertyType": "DWord",
-        "PropertyValue": "1",
-        "SetProperty": "True"
-    },
-    {
-        "HivePath": "HKLM:\\VDOT_TEMP\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications",
-        "KeyName": "NoToastApplicationNotification",
-        "PropertyType": "DWord",
-        "PropertyValue": "1",
-        "SetProperty": "True"
-    },
-    {
-        "HivePath": "HKLM:\\VDOT_TEMP\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications",
-        "KeyName": "NoToastApplicationNotificationOnLockScreen",
         "PropertyType": "DWord",
         "PropertyValue": "1",
         "SetProperty": "True"
